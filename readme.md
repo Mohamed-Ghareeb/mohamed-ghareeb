@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mohamed.ghareeb725@gmail.com**
 
-- ⚡ Fun fact **I'm Good At teaching**
+- ⚡ Fun fact **I'm Good At playing video games**
 
 <p align="left">
 <h3 align="left">Contact or Connect with me:</h3>
