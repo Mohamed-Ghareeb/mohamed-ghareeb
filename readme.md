@@ -72,10 +72,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original-wordmark.svg" alt="livewire"
         width="40" height="40" />
 </a>
-<!-- <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
+<a href="https://filamentphp.com/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="filamentphp" width="40"
         height="40" />
-</a> -->
+</a>
 <!-- <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40"
         height="40" />
